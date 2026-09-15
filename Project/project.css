@@ -678,3 +678,66 @@ header {
     background: #fff;
     color: #111;
 }
+
+/* Phase-9 */
+/* Reviews Section */
+
+.Reviews {
+    background: #fff;
+    padding: 50px 80px;
+}
+
+
+.reviews-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 25px;
+    margin-top: 30px;
+}
+
+
+.review-box {
+    background: #f7f7f7;
+    padding: 25px;
+    border: 1px solid #ddd;
+    border-radius: 6px;
+    transition: 0.3s;
+}
+
+
+.review-box:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.15);
+}
+
+
+.review-stars {
+    margin-bottom: 15px;
+}
+
+
+.review-stars i {
+    color: #c6a15b;
+    font-size: 18px;
+    margin-right: 3px;
+}
+
+
+.review-box p {
+    color: #555;
+    line-height: 1.6;
+    margin-bottom: 20px;
+}
+
+
+.review-box h3 {
+    color: #111;
+    font-size: 18px;
+    margin-bottom: 5px;
+}
+
+
+.review-box span {
+    color: #777;
+    font-size: 14px;
+}
