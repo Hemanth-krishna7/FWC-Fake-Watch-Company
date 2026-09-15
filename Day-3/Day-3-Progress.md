@@ -38,15 +38,25 @@ The styling was kept similar to the other sections of the website by using the s
 
 ###### **Technologies Used:**
 
+
+
 \-> **HTML**
 
 \-> **CSS**
 
+###### 
+
 ###### **Today's Progress:**
+
+
 
 The Collections and Features sections were completed. The website now has the Home, Featured Watches, Collections and Features sections.
 
+
+
 **Next Day:**
+
+
 
 We will work on the About section and add the New Arrivals and Best Sellers sections.
 

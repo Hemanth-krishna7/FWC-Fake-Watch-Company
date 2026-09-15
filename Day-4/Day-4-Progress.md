@@ -46,6 +46,8 @@ We also adjusted the watch images so that they fill the available image area pro
 
 ###### **Technologies Used:**
 
+
+
 \-> **HTML**
 
 \-> **CSS**
@@ -54,11 +56,15 @@ We also adjusted the watch images so that they fill the available image area pro
 
 ###### **Today's Progress:**
 
+
+
 The About FWC, New Arrivals and Best Sellers sections were completed. The website now has the Home, Featured Watches, Collections, Features, About FWC, New Arrivals and Best Sellers sections.
 
 
 
 **Next Day:**
+
+
 
 We will work on the Reviews section, Newsletter section and Footer.
 

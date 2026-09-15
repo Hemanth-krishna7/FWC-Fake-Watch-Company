@@ -680,13 +680,10 @@ header {
 }
 
 /* Phase-9 */
-/* Reviews Section */
-
 .Reviews {
     background: #fff;
     padding: 50px 80px;
 }
-
 
 .reviews-container {
     display: grid;
@@ -694,7 +691,6 @@ header {
     gap: 25px;
     margin-top: 30px;
 }
-
 
 .review-box {
     background: #f7f7f7;
@@ -704,17 +700,14 @@ header {
     transition: 0.3s;
 }
 
-
 .review-box:hover {
     transform: translateY(-5px);
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.15);
 }
 
-
 .review-stars {
     margin-bottom: 15px;
 }
-
 
 .review-stars i {
     color: #c6a15b;
@@ -722,13 +715,11 @@ header {
     margin-right: 3px;
 }
 
-
 .review-box p {
     color: #555;
     line-height: 1.6;
     margin-bottom: 20px;
 }
-
 
 .review-box h3 {
     color: #111;
@@ -736,8 +727,61 @@ header {
     margin-bottom: 5px;
 }
 
-
 .review-box span {
     color: #777;
     font-size: 14px;
+}
+
+/* Phase-10 */
+.Newsletter {
+    background: #111;
+    padding: 60px 80px;
+}
+
+.newsletter-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 40px;
+}
+
+.newsletter-text {
+    max-width: 600px;
+}
+
+.newsletter-text span {
+    color: #c6a15b;
+    font-size: 15px;
+    font-weight: 600;
+    letter-spacing: 3px;
+}
+
+.newsletter-text h2 {
+    color: #fff;
+    font-size: 35px;
+    margin: 10px 0;
+}
+
+.newsletter-text p {
+    color: #ccc;
+    line-height: 1.6;
+}
+
+.newsletter-form {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.newsletter-form input {
+    width: 280px;
+    padding: 12px 15px;
+    border: 1px solid #555;
+    border-radius: 4px;
+    outline: none;
+    font-family: 'Poppins', sans-serif;
+}
+
+.newsletter-form .btn {
+    border: 1px solid #c6a15b;
 }

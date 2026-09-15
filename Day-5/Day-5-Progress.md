@@ -24,7 +24,21 @@ The Reviews section was given a white background and proper padding so that the 
 
 
 
+After completing the Reviews section, we created the Newsletter section.
+
+
+
+The Newsletter section contains a heading, a short description, an email input and a Subscribe button. We used a dark background to match the premium look of the FWC website and used the existing button styling for the Subscribe button.
+
+
+
+The newsletter section is currently visual only and does not have any actual subscription functionality.
+
+
+
 ###### **Technologies Used:**
+
+
 
 \-> **HTML**
 
@@ -34,11 +48,15 @@ The Reviews section was given a white background and proper padding so that the 
 
 ###### **Today's Progress:**
 
-The Reviews section was completed and added below the Best Sellers section.
+
+
+The Reviews and Newsletter sections were completed and added to the website.
 
 
 
 **Next:**
 
-We will work on the Newsletter section and add an email input and Subscribe button.
+
+
+We will work on the Footer section and complete the remaining part of Day 5.
 
