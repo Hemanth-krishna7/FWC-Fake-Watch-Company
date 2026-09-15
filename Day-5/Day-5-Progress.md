@@ -36,6 +36,16 @@ The newsletter section is currently visual only and does not have any actual sub
 
 
 
+After completing the Newsletter section, we created the Footer section.
+
+The Footer contains the FWC logo, a short description, quick navigation links, contact information and social media icons. We also added a copyright message at the bottom of the footer.
+
+
+
+We added hover effects to the footer links and social media icons using CSS. The Contact link in the header and footer was also connected to the Contact information in the Footer section.
+
+
+
 ###### **Technologies Used:**
 
 
@@ -50,7 +60,7 @@ The newsletter section is currently visual only and does not have any actual sub
 
 
 
-The Reviews and Newsletter sections were completed and added to the website.
+The Reviews, Newsletter and Footer sections were completed. Day 5 of the FWC website development is now complete.
 
 
 
@@ -58,5 +68,5 @@ The Reviews and Newsletter sections were completed and added to the website.
 
 
 
-We will work on the Footer section and complete the remaining part of Day 5.
+We will work on JavaScript and add simple reveal animations and transitions to the website.
 
